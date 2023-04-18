@@ -256,7 +256,7 @@ if(isset($_POST['docsub1']))
               <div class="col-md-8">
       <form class="form-group" action="doctorsearch.php" method="post">
         <div class="row">
-        <div class="col-md-10"><input type="text" name="doctor_contact" placeholder="Enter Email ID" class = "form-control"></div>
+        <div class="col-md-10"><input type="text" name="doctor_contact" placeholder="Enter Email adress" class = "form-control"></div>
         <div class="col-md-2"><input type="submit" name="doctor_search_submit" class="btn btn-primary" value="Search"></div></div>
       </form>
     </div>
