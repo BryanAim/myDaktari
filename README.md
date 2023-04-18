@@ -25,12 +25,12 @@ Hospital Booking System using MySQL, Php and Bootstrap
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'myDaktari'
 7. Import the file 'myDaktari.sql' inside your newly created database and click ok.
-8. Open a new tab and type 'localhost/foldername' in the url of your browser
+8. Open a new tab and type 'localhost/mydaktari' in the url of your browser
 9. Hurray! That's it!
     
 ### SOFTWARE USED
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
-  - Sublime Text 3.2 was used as a text editor.
+  - VS Code was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
   
 
