@@ -81,7 +81,11 @@ function checklen()
                     <div class="col-md-3 register-left" style="margin-top: 10%;right: 5%">
                         <img src="images/ambulance1.png" alt=""/>
                         <h3>Welcome</h3>
-                       
+                       <br>
+
+                        <li class="nav-item" style="margin-right: 40px;" style="list-style: none;">
+            <a class="nav-link js-scroll-trigger" href="services.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif; list-style: none;"><h6>What is MyDaktari?</h6></a>
+          </li>
                     </div>
                     <div class="col-md-9 register-right" style="margin-top: 40px;left: 80px;">
                         <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist" style="width: 40%;">
