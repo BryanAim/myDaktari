@@ -1,5 +1,5 @@
-# Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap
+# Hospital Booking & Management System
+Hospital Booking System using MySQL, Php and Bootstrap
 
 
 
